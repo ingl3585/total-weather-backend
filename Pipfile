@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+djangorestframework = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+pytz = "*"
+djangorestframework-simplejwt = "*"
+djoser = "*"
+typing-extensions = "*"
+django-braces = "*"
+gunicorn = "*"
+whitenoise = "*"
+django-heroku = "*"
+pillow = "*"
+django-cors-headers = "*"
+django-environ = "*"
+python-decouple = "*"
+django-storages = "*"
+boto3 = "*"
+python-dotenv = "*"
+django-dotenv = "*"
+install = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

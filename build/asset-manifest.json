@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/total-weather-frontend/static/css/main.371f631d.css",
-    "main.js": "/total-weather-frontend/static/js/main.0853f384.js",
+    "main.js": "/total-weather-frontend/static/js/main.ab567c6a.js",
     "static/media/logo.png": "/total-weather-frontend/static/media/logo.17a264e00db7f5cc05e7.png",
     "static/media/menu.png": "/total-weather-frontend/static/media/menu.a24dd12e1144e838ca3e.png",
     "index.html": "/total-weather-frontend/index.html",
     "main.371f631d.css.map": "/total-weather-frontend/static/css/main.371f631d.css.map",
-    "main.0853f384.js.map": "/total-weather-frontend/static/js/main.0853f384.js.map"
+    "main.ab567c6a.js.map": "/total-weather-frontend/static/js/main.ab567c6a.js.map"
   },
   "entrypoints": [
     "static/css/main.371f631d.css",
-    "static/js/main.0853f384.js"
+    "static/js/main.ab567c6a.js"
   ]
 }

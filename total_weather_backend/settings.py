@@ -173,7 +173,7 @@ SIMPLE_JWT = {
 }
 
 DOMAIN = (
-    'ingl3585.github.io/total-weather-frontend/#/')
+    'ingl3585.github.io/total-weather-frontend/#')
 SITE_NAME = ('Total Weather')
 
 DJOSER = {
